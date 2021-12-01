@@ -1,0 +1,12 @@
+{
+  "prefix": "Your Prefix",
+  "token": "Your Bot Token",
+  "owners": ["Your ID"],
+  "footer": "NSFW Bot • (Your Server)",
+
+  "msg": {
+    "nsfwWarn": "Use this command in an NSFW channel",
+    "loading": "Wait please...",
+    "imageNotLoading": "Click here if the image does not load :3"
+  }
+}
